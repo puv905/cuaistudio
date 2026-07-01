@@ -1,0 +1,6 @@
+{
+  "name": "CU Water",
+  "description": "Premium eco-friendly hydration products including alkaline water, mineral water, energy water, and jelly water, with instant Cash on Delivery and WhatsApp order system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
